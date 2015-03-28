@@ -1,0 +1,3 @@
+Suma 4
+Resta -1
+Multiplicacion 12
