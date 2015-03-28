@@ -2,16 +2,16 @@
 
 @mytag
 Scenario: Add two numbers
-	Given the first number 1 
-	And the second number 3 
+	Given a text file	
+	And two addition numbers	
 	Then the addition result should be 4 
 
 Scenario: Substract two numbers
-	Given the first number 5 
-	And the second number 6 
+	Given a text file
+	And two substraction numbers	
 	Then the substraction result should be -1 
 
 Scenario: Multiply two numbers
-	Given the first number 4 
-	And the second number 3
+	Given a text file
+	And two multiplication numbers
 	Then the multiplication result should be 12

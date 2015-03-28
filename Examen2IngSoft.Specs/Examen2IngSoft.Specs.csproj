@@ -58,6 +58,7 @@
       <DependentUpon>FactoryMethod.feature</DependentUpon>
     </Compile>
     <Compile Include="FactoryMethodSteps.cs" />
+    <Compile Include="FileReader.cs" />
     <Compile Include="Implements\Addition.cs" />
     <Compile Include="Implements\AdditionCreator.cs" />
     <Compile Include="Implements\BaseLog.cs" />

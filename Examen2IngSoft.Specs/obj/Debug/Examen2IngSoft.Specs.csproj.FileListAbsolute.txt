@@ -7,3 +7,12 @@ C:\Users\Carlos\Documents\Unitec\Ingenieria De Software\Examen2IngSoft\Examen2In
 C:\Users\Carlos\Documents\Unitec\Ingenieria De Software\Examen2IngSoft\Examen2IngSoft.Specs\obj\Debug\Examen2IngSoft.Specs.csprojResolveAssemblyReference.cache
 C:\Users\Carlos\Documents\Unitec\Ingenieria De Software\Examen2IngSoft\Examen2IngSoft.Specs\obj\Debug\Examen2IngSoft.Specs.dll
 C:\Users\Carlos\Documents\Unitec\Ingenieria De Software\Examen2IngSoft\Examen2IngSoft.Specs\obj\Debug\Examen2IngSoft.Specs.pdb
+C:\Users\Carlos\Documents\Unitec\Ingenieria De Software\Examen2IngSoft_v0.1\Examen2IngSoft.Specs\bin\Debug\Examen2IngSoft.Specs.dll.config
+C:\Users\Carlos\Documents\Unitec\Ingenieria De Software\Examen2IngSoft_v0.1\Examen2IngSoft.Specs\bin\Debug\Examen2IngSoft.Specs.dll
+C:\Users\Carlos\Documents\Unitec\Ingenieria De Software\Examen2IngSoft_v0.1\Examen2IngSoft.Specs\bin\Debug\Examen2IngSoft.Specs.pdb
+C:\Users\Carlos\Documents\Unitec\Ingenieria De Software\Examen2IngSoft_v0.1\Examen2IngSoft.Specs\bin\Debug\nunit.framework.dll
+C:\Users\Carlos\Documents\Unitec\Ingenieria De Software\Examen2IngSoft_v0.1\Examen2IngSoft.Specs\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Carlos\Documents\Unitec\Ingenieria De Software\Examen2IngSoft_v0.1\Examen2IngSoft.Specs\bin\Debug\nunit.framework.xml
+C:\Users\Carlos\Documents\Unitec\Ingenieria De Software\Examen2IngSoft_v0.1\Examen2IngSoft.Specs\obj\Debug\Examen2IngSoft.Specs.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Documents\Unitec\Ingenieria De Software\Examen2IngSoft_v0.1\Examen2IngSoft.Specs\obj\Debug\Examen2IngSoft.Specs.dll
+C:\Users\Carlos\Documents\Unitec\Ingenieria De Software\Examen2IngSoft_v0.1\Examen2IngSoft.Specs\obj\Debug\Examen2IngSoft.Specs.pdb
