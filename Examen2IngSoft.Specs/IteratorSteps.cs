@@ -11,9 +11,9 @@ namespace Examen2IngSoft.Specs
     [Binding]
     public class IteratorSteps
     {
-        private int _infoAddition = new Addition();
-        private int _infoSubstraction = new Substraction();
-        private int _infoMultiplication = new Multiplication();
+        private int _infoAddition = new Addition(0);
+        private int _infoSubstraction = new Substraction(0);
+        private int _infoMultiplication = new Multiplication(0);
         private ILog log;
         private IFileWriter _fileWriter;
         private ICreator _creator;
