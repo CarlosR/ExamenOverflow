@@ -87,6 +87,12 @@
     <Compile Include="Interfaces\ILog.cs" />
     <Compile Include="Interfaces\IFileWriter.cs" />
     <Compile Include="Interfaces\IOperation.cs" />
+    <Compile Include="Iterator.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Iterator.feature</DependentUpon>
+    </Compile>
+    <Compile Include="IteratorSteps.cs" />
     <Compile Include="ObserverPattern.feature.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -104,6 +110,10 @@
     <None Include="FactoryMethod.feature">
       <Generator>SpecFlowSingleFileGenerator</Generator>
       <LastGenOutput>FactoryMethod.feature.cs</LastGenOutput>
+    </None>
+    <None Include="Iterator.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>Iterator.feature.cs</LastGenOutput>
     </None>
     <None Include="ObserverPattern.feature">
       <Generator>SpecFlowSingleFileGenerator</Generator>
