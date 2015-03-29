@@ -71,16 +71,16 @@ namespace Examen2IngSoft.Specs
         {
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("save average all class I a class change one of its operands", new string[] {
                         "mytag"});
-#line 4
-this.ScenarioSetup(scenarioInfo);
 #line 5
- testRunner.Given("I the sum change 1 value 2", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+this.ScenarioSetup(scenarioInfo);
 #line 6
- testRunner.And("resul the sum is , now would be 2+3=5", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+ testRunner.Given("I the sum change value 1 to 2", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
 #line 7
- testRunner.When("is calculate", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+ testRunner.And("resul the sum is 5", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line 8
- testRunner.Then("average value us updated automatically", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+ testRunner.And("a read text file", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+#line 9
+ testRunner.Then("average value is updated automatically is 5.0", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
             this.ScenarioCleanup();
         }

@@ -92,6 +92,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>ObserverPattern.feature</DependentUpon>
     </Compile>
+    <Compile Include="ObserverPatternSteps.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

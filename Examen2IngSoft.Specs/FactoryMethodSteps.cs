@@ -11,7 +11,6 @@ namespace Examen2IngSoft.Specs
     {
         private int _num1 = 0;
         private int _num2 = 0;
-        private int average = 0;
         private ICreator _creator;
        
         [Given(@"a text file")]

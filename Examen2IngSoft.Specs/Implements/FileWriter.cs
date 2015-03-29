@@ -13,6 +13,5 @@ namespace Examen2IngSoft.Specs.Implements
         {
             System.IO.File.WriteAllLines(@"Log.txt", logList.ToArray());
         }
-
     }
 }
