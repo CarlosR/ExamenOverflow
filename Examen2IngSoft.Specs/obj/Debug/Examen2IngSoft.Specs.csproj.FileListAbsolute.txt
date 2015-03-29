@@ -16,3 +16,4 @@ C:\Users\Carlos\Documents\Unitec\Ingenieria De Software\Examen2IngSoft_v0.1\Exam
 C:\Users\Carlos\Documents\Unitec\Ingenieria De Software\Examen2IngSoft_v0.1\Examen2IngSoft.Specs\obj\Debug\Examen2IngSoft.Specs.csprojResolveAssemblyReference.cache
 C:\Users\Carlos\Documents\Unitec\Ingenieria De Software\Examen2IngSoft_v0.1\Examen2IngSoft.Specs\obj\Debug\Examen2IngSoft.Specs.dll
 C:\Users\Carlos\Documents\Unitec\Ingenieria De Software\Examen2IngSoft_v0.1\Examen2IngSoft.Specs\obj\Debug\Examen2IngSoft.Specs.pdb
+C:\Users\Tornrhen\Documents\AnalisisYDiseño\Examen2Overflow\Examen2IngSoft.Specs\obj\Debug\Examen2IngSoft.Specs.csprojResolveAssemblyReference.cache
